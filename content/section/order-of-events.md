@@ -1,48 +1,48 @@
 ---
 draft: false
-title: "Order of Events"
+title: "Ablauf der Veranstaltung"
 ---
 
-## 1:30pm - Arrivals
+## 13:30 Uhr - Ankünfte
 
-Everyone arrives at Higher Eggbeer
+Alle kommen bei Higher Eggbeer an
 
-Warm drink on arrival before the ceremony
+Warmes Getränk bei der Ankunft vor der Zeremonie
 
-## 2pm - Ceremony
+## 14:00 Uhr - Trauungszeremonie
 
-Inside the **Chapel Barn** at Higher Eggbeer
+In der **Kapellen-Scheune** bei Higher Eggbeer
 
-## 2:30pm - Reception
+## 14:30 Uhr - Empfang
 
-Sparkling, canapes and photographs on the lawn after the ceremony- weather permitting!
+Sekt, Häppchen und Fotos auf der Wiese nach der Zeremonie - wetterabhängig!
 
-Please do wrap up warm, but we have contingencies for rain
+Bitte kleidet euch warm, aber wir haben Vorkehrungen für Regen getroffen
 
-## 4pm - Wedding Breakfast
+## 16:00 Uhr - Hochzeitsessen
 
-A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
+Ein Abendessen mit Wein folgt in Higher Eggbeers **Bankett-Scheune**
 
-Speeches after dinner
+Reden nach dem Essen
 
-_Venue Bar opens during the wedding breakfast -  cash & card accepted_
+_Die Bar des Veranstaltungsortes öffnet während des Hochzeitsessens - Bargeld & Karte werden akzeptiert_
 
-## Later... The Party
+## Später... Die Party
 
-After a quick reshuffle of the **Banquet Barn**, the party will begin!
+Nach einem schnellen Umbau der **Bankett-Scheune** beginnt die Party!
 
-_The Small Things_ playing live music until 11pm
+_The Small Things_ spielen Live-Musik bis 23 Uhr
 
-Late night food served for those still peckish!
+Spätabendliches Essen für diejenigen, die noch hungrig sind!
 
-## Carriages at midnight
+## Kutschen um Mitternacht
 
-Wrap up warm for sparklers, toasted marshmallows, and drunken warbling around the fire pit as we begin to say our farewells!
+Kleidet euch warm für Wunderkerzen, geröstete Marshmallows und betrunkenes Trällern um die Feuerstelle, während wir beginnen, uns zu verabschieden!
 
-_Venue Bar closes shortly after midnight_
+_Die Bar des Veranstaltungsortes schließt kurz nach Mitternacht_
 
-## Wheelbarrows at 2am
+## Schubkarren um 2 Uhr morgens
 
-The **Banquet Barn** will shut at around midnight… but the party doesn’t need to end there!
+Die **Bankett-Scheune** wird gegen Mitternacht schließen... aber die Party muss dort nicht enden!
 
-The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hardcore enough to stay up!
+Die kleinere **'Pub'-Scheune** wird mit einigen Flaschen und vielleicht einigen Fässern geöffnet, für diejenigen, die hart genug sind, um aufzubleiben!

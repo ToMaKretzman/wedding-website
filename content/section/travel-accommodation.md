@@ -1,26 +1,26 @@
 ---
 draft: false
-title: "Travel and Accommodation"
+title: "Anreise und Unterkunft"
 ---
 
-**Please take a look at our separate pages on <a href="/travel">travel</a> and <a href="/accommodation">accommodation</a> for advice.**
+**Bitte schaut euch unsere separaten Seiten zu <a href="/travel">Anreise</a> und <a href="/accommodation">Unterkunft</a> für Ratschläge an.**
 
 <br>
 
-The take-home messages are:
+Die wichtigsten Informationen sind:
 
 <br>
 
-Please pre-book a taxi for the evening if you are not travelling by car
+Bitte bucht im Voraus ein Taxi für den Abend, wenn ihr nicht mit dem Auto anreist
 
 <br>
 
-There is a lot of parking space available at Eggbeer Farm and cars can be left here overnight.
+Es gibt viele Parkplätze bei Eggbeer Farm und Autos können über Nacht hier stehen gelassen werden.
 
 <br>
 
-Accommodation at Higher Eggbeer is available for hire, please contact Hugo and Sarah for more details
+Unterkünfte bei Higher Eggbeer können gemietet werden, bitte kontaktiert Hugo und Sarah für weitere Details
 
 <br>
 
-You could take a train down from London to Exeter on the morning of the wedding, and back home afterwards, if you wanted!
+Ihr könntet am Morgen der Hochzeit mit dem Zug von London nach Exeter fahren und danach wieder nach Hause, wenn ihr möchtet!

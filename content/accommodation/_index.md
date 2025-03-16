@@ -1,39 +1,39 @@
 ---
 draft: false
-title: "Accommodation"
+title: "Unterkunft"
 ---
 
-## Camping and Caravans at Higher Eggbeer
+## Camping und Wohnwagen bei Higher Eggbeer
 
-Higher Eggbeer also offers additional accommodation on site via shepards huts and caravans, which **need to be booked and paid in advance via Hugo and Sarah**. You would be able to stay there until midday Monday.
-
-<br>
-
-Quoted from - [Higher Eggbeer's website](http://www.higher-eggbeer.co.uk/accommodation/#:~:text=You%20can%20bring,Friday%20to%20Monday.%C2%A0):
+Higher Eggbeer bietet zusätzliche Unterkunftsmöglichkeiten vor Ort in Form von Schäferhütten und Wohnwagen an, die **im Voraus über Hugo und Sarah gebucht und bezahlt werden müssen**. Ihr könntet dort bis Montag Mittag bleiben.
 
 <br>
 
-_"There is a **shepherds hut** in the camping field with a shower and toilet, it has electric for hairdryers and charging phones. It also has a mirror and gas hob._
+Zitat von der [Higher Eggbeer Website](http://www.higher-eggbeer.co.uk/accommodation/#:~:text=You%20can%20bring,Friday%20to%20Monday.%C2%A0):
 
 <br>
 
-_There is also a **bridal shepherds hut** with a double bed, linen and heating provided which is £100 per night._
+_"Es gibt eine **Schäferhütte** auf dem Campingplatz mit Dusche und Toilette, sie hat Strom für Haartrockner und zum Aufladen von Handys. Sie verfügt auch über einen Spiegel und einen Gasherd._
 
 <br>
 
-_Also **we can provide up to 7 caravans (depending on avaliablility)** on site for the weekend. Last two weeks of july and August not included. The caravans have gas shower, cooking, fridge and heating, we have 6 hook ups which cost £15 each. Please bring your own bedding. Please call Sarah (editor's note: not the bride!) on 07933028347 for prices and avaliability._
+_Es gibt auch eine **Braut-Schäferhütte** mit einem Doppelbett, Bettwäsche und Heizung für 100 £ pro Nacht._
 
 <br>
 
-_There is a **mobile home** on site which sleeps 6-8 guests, it has three bedrooms, one double and two twins (which can be doubles as well). There is a pullout double bed in the living room. There is also a separate shower and toilet and kitchenette. Bedding not provided. The Cost is £250 for the weekend, Friday to Monday."_
+_Außerdem **können wir bis zu 7 Wohnwagen (je nach Verfügbarkeit)** für das Wochenende vor Ort bereitstellen. Die letzten zwei Wochen im Juli und August sind ausgenommen. Die Wohnwagen verfügen über Gasdusche, Kochmöglichkeit, Kühlschrank und Heizung, wir haben 6 Stromanschlüsse, die jeweils 15 £ kosten. Bitte bringt eure eigene Bettwäsche mit. Bitte ruft Sarah (Anmerkung des Herausgebers: nicht die Braut!) unter 07933028347 an, um Preise und Verfügbarkeit zu erfragen._
 
-## B&B’s
+<br>
+
+_Es gibt ein **Mobilheim** vor Ort, das Platz für 6-8 Gäste bietet. Es hat drei Schlafzimmer, ein Doppelzimmer und zwei Zweibettzimmer (die auch als Doppelzimmer genutzt werden können). Im Wohnzimmer gibt es ein ausziehbares Doppelbett. Es gibt auch eine separate Dusche und Toilette sowie eine kleine Küche. Bettwäsche wird nicht gestellt. Die Kosten betragen 250 £ für das Wochenende, von Freitag bis Montag."_
+
+## Bed & Breakfast
 
 - [Brook Farmhouse](https://www.brook-farmhouse.co.uk/)
-B&B with 3 Rooms (10 min drive)
+B&B mit 3 Zimmern (10 Minuten Fahrt)
 
 - [Brickmoor Apartment B&B](http://www.brickmoor-bedandbreakfast.co.uk/page2.html)
-Sleeps 2 (12 min drive)
+Für 2 Personen (12 Minuten Fahrt)
 
 
 ## Hotels
@@ -41,81 +41,81 @@ Sleeps 2 (12 min drive)
 - [Holiday Inn, Exeter](https://www.booking.com/hotel/gb/holiday-inn-express-exeter-city-centre.en-gb.html)
 
 - [Fingle Glen Golf Hotel](https://www.fingleglengolfhotel.co.uk/)
-    - Hotel Rooms & Lodges (8min drive)
+    - Hotelzimmer & Lodges (8 Minuten Fahrt)
 
 - [Mill End Hotel](https://www.booking.com/hotel/gb/mill-end.en-gb.html)
-    - Small Boutique Hotel (15min drive)
+    - Kleines Boutique-Hotel (15 Minuten Fahrt)
 
-- [Jury’s Inn, Exeter](https://www.booking.com/hotel/gb/jurys-inn-exeter.en-gb.html)
-    - Hotel in Exeter - close to the train station
+- [Jury's Inn, Exeter](https://www.booking.com/hotel/gb/jurys-inn-exeter.en-gb.html)
+    - Hotel in Exeter - nahe am Bahnhof
 
 - [The Globe Inn, Chagford](https://www.booking.com/hotel/gb/the-globe-inn.en-gb.html)
-    - Pub with Rooms (15-20min drive)
+    - Pub mit Zimmern (15-20 Minuten Fahrt)
 
 ## AirBnb
 
 - [Barn Studio, Cheriton Bishop](https://www.airbnb.co.uk/rooms/33395904?adults=2&check_in=2023-02-10&check_out=2023-02-13&children=0&guests=2&infants=0&role=wishlist_owner&source_impression_id=p3_1571604167_zvZsTfa85HAMr4jO&wl_id=575934231&wl_source=list)
-    - Self-catering apartment (2min drive, walking distance)
-    - 1 Bedroom/Sleeps2
+    - Selbstversorger-Apartment (2 Minuten Fahrt, zu Fuß erreichbar)
+    - 1 Schlafzimmer/für 2 Personen
 
 - [Honey Pippin House, Cheriton Bishop](https://www.airbnb.co.uk/rooms/29373662?check_in=2023-02-10&check_out=2023-02-13&guests=2&adults=2)
-    - Self-catering house w. hot tub 
-    - (2min drive, walking distance)
-    - 4 Bedroom/ Sleeps 8 
+    - Selbstversorger-Haus mit Whirlpool 
+    - (2 Minuten Fahrt, zu Fuß erreichbar)
+    - 4 Schlafzimmer/für 8 Personen 
 
 - [Higher Thornwood Cottage, Tedburn St Mary](https://www.airbnb.co.uk/rooms/24710144?check_in=2023-02-10&check_out=2023-02-13&guests=2&adults=2)
-    - Self-catering house (10min drive)
-    - 4 Bedroom/Sleeps 7 
+    - Selbstversorger-Haus (10 Minuten Fahrt)
+    - 4 Schlafzimmer/für 7 Personen 
 
-## Holiday Cottages
+## Ferienhäuser
 
-- [Downhouse Farm, nr Tedburn St Mary](https://www.vrbo.com/en-gb/p6831669?preferlocale=true&vgdc=HAUK)
-    - Self-catering house (10min drive)
-    - 7 Bedroom/Sleeps 10
+- [Downhouse Farm, bei Tedburn St Mary](https://www.vrbo.com/en-gb/p6831669?preferlocale=true&vgdc=HAUK)
+    - Selbstversorger-Haus (10 Minuten Fahrt)
+    - 7 Schlafzimmer/für 10 Personen
 
-- [Hare Path Farm, nr Drewsteignton](https://www.harepathfarmbarns.com/)
-    - 2 Self-catering Barns (10min drive)
-    - 1 Bedroom/Sleeps 2 adults, 2 kids 
-    - 1 Bedroom /Sleeps 2
+- [Hare Path Farm, bei Drewsteignton](https://www.harepathfarmbarns.com/)
+    - 2 Selbstversorger-Scheunen (10 Minuten Fahrt)
+    - 1 Schlafzimmer/für 2 Erwachsene, 2 Kinder 
+    - 1 Schlafzimmer/für 2 Personen
 
 - [3 x Clifford Cottages, Drewsteignton](https://www.cliffordbarton.co.uk/accommodation/)
-    - 3 Self-catering Cottages (10min drive)
-    - 3 Bedroom/Sleeps 8
-    - 2 Bedroom/Sleeps 5 
-    - 2 Bedroom/Sleeps 5 
+    - 3 Selbstversorger-Cottages (10 Minuten Fahrt)
+    - 3 Schlafzimmer/für 8 Personen
+    - 2 Schlafzimmer/für 5 Personen 
+    - 2 Schlafzimmer/für 5 Personen 
 
 - [East Underdown Cottages, Drewsteignton](https://eastunderdown.co.uk/index.php)
-    - 3 Self-catering Cottages w.indoor pool (10min drive)
-    - 4 Bedroom/Sleeps 8
-    - 2 Bedroom/Sleeps 4
-    - 2 Bedroom/Sleeps 4
+    - 3 Selbstversorger-Cottages mit Innenpool (10 Minuten Fahrt)
+    - 4 Schlafzimmer/für 8 Personen
+    - 2 Schlafzimmer/für 4 Personen
+    - 2 Schlafzimmer/für 4 Personen
 
 - [Primrose Cottage, Drewsteignton](https://www.helpfulholidays.co.uk/cottage/Devon-Rectory-Wood/Primrose-Cottage-975865.html#map_wrp)
-    - Self-catering cottage (10min drive)
-    - 2 Bedroom/Sleeps 4
+    - Selbstversorger-Cottage (10 Minuten Fahrt)
+    - 2 Schlafzimmer/für 4 Personen
 
 - [Michaelmas Cottage, Drewsteignton](https://www.sykescottages.co.uk/cottage/Devon-Drewsteignton/Michaelmas-Cottage-975813.html?gclid=Cj0KCQjwi7DtBRCLARIsAGCJWBoZrSdzxXRphn8559ybLftOZprXVkhg_DVt7ku_RbsymhQMxUtaGJ0aAovbEALw_wcB&pcrid=275245603430&pkw=michaelmas%20cottage%20drewsteignton&pmt=e&rfx=3&slid=#duration=3&start=2020-07-24&calendar=2020-07&changeover=5)
-    - Self-catering cottage (10min drive)
-    - 4 Bedroom/Sleeps 6
+    - Selbstversorger-Cottage (10 Minuten Fahrt)
+    - 4 Schlafzimmer/für 6 Personen
 
 - [Bowbeer Barn, Drewsteignton](https://www.helpfulholidays.co.uk/cottage/Devon-Bowbeer/Bowbeer-Barn-975825.html)
-    - Self-catering cottage (10min drive)
-    - 2 Bedroom/Sleeps 4
+    - Selbstversorger-Cottage (10 Minuten Fahrt)
+    - 2 Schlafzimmer/für 4 Personen
 
 - [Rookwood Cottage, Drewsteignton](https://www.rookwoodcottage.com/)
-    - Self-catering cottage (10min drive)
-    - 2 Bedroom/Sleeps 4
+    - Selbstversorger-Cottage (10 Minuten Fahrt)
+    - 2 Schlafzimmer/für 4 Personen
 
 - [The Old Dairy, Dunsford](https://www.olddairydunsford.co.uk/)
-    - Self-catering cottage (15min drive)
-    - 1 Bedroom/Sleeps 2
+    - Selbstversorger-Cottage (15 Minuten Fahrt)
+    - 1 Schlafzimmer/für 2 Personen
 
 - [Budleigh Farm Cottages, Newton Abbot](https://www.booking.com/hotel/gb/budleigh-farm.html)
-    - 3 Self-catering Cottages (20min drive)
-    - 1 Bedroom / Sleeps 3 
-    - 1 Bedroom / Sleeps 3 
-    - 1 Bedroom / Sleeps 3 
+    - 3 Selbstversorger-Cottages (20 Minuten Fahrt)
+    - 1 Schlafzimmer/für 3 Personen 
+    - 1 Schlafzimmer/für 3 Personen 
+    - 1 Schlafzimmer/für 3 Personen 
 
-- [Swallows Cottage, Falkedon nr Spreyton](https://www.swallowsatfalkedon.co.uk/the-accommodation.html)
-Self-catering cottage (18min drive)
-    - 1 Bedroom/Sleeps 2
+- [Swallows Cottage, Falkedon bei Spreyton](https://www.swallowsatfalkedon.co.uk/the-accommodation.html)
+Selbstversorger-Cottage (18 Minuten Fahrt)
+    - 1 Schlafzimmer/für 2 Personen

@@ -1,28 +1,28 @@
 ---
 draft: false
-title: "Gifts"
+title: "Geschenke"
 giftUrl: "https://www.collectionpot.com/pot/3015949/"
 ---
 
-The most important thing to us is that you are able to celebrate with us on our wedding day. However, if you wish to give a gift, we will gratefully accept a small contribution towards our honeymoon or settling into our new home.
+Das Wichtigste für uns ist, dass ihr mit uns an unserem Hochzeitstag feiern könnt. Falls ihr jedoch ein Geschenk machen möchtet, nehmen wir dankbar einen kleinen Beitrag für unsere Hochzeitsreise oder für die Einrichtung unseres neuen Zuhauses an.
 
 <br/>
 
 <figure>
     <blockquote>
-        <p>Your coming to our wedding is a gift</p>
-        <p>Greater than rubies, or some shop-bought thing.</p>
-        <p>Which brings us onto ‘presents’: tricky stuff.</p>
-        <p>We won’t send out a Harrods’ Wedding List</p>
-        <p>But if you had a little cash to spare,</p>
-        <p>That’s what we’d like please, to help make our home.</p>
-        <p>Whatever comes our way will touch our hearts,</p>
-        <p>And seeing your dear faces when we say our vows.</p>
+        <p>Euer Kommen zu unserer Hochzeit ist ein Geschenk</p>
+        <p>Wertvoller als Rubine oder irgendein gekauftes Ding.</p>
+        <p>Was uns zum Thema 'Geschenke' bringt: knifflige Sache.</p>
+        <p>Wir werden keine Harrods-Hochzeitsliste verschicken</p>
+        <p>Aber wenn ihr etwas Geld übrig habt,</p>
+        <p>Würden wir uns darüber freuen, um unser Zuhause zu gestalten.</p>
+        <p>Was auch immer uns erreicht, wird unsere Herzen berühren,</p>
+        <p>Genau wie eure lieben Gesichter zu sehen, wenn wir unser Eheversprechen geben.</p>
     </blockquote>
-    <figcaption>-Paul Wilson, up-and-coming poetic sensation/Father of the Groom</figcaption>
+    <figcaption>-Paul Wilson, aufstrebende poetische Sensation/Vater des Bräutigams</figcaption>
 </figure>
 
 
 <br/>
 
-If you would like to do this, we've set up an online 'pot' which can be found here: [Collection Pot](https://www.collectionpot.com/pot/3015949/)
+Falls ihr dies tun möchtet, haben wir einen Online-'Topf' eingerichtet, den ihr hier finden könnt: [Collection Pot](https://www.collectionpot.com/pot/3015949/)

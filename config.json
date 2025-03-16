@@ -1,7 +1,7 @@
 {
-  "baseURL": "https://SarahFrench.github.io/wedding-website",
-  "languageCode": "en-us",
-  "title": "Sarah & Hugo's Wedding",
+  "baseURL": "/",
+  "languageCode": "de-de",
+  "title": "Lena & Tobias Hochzeit",
   "show_comments": false,
   "disableKinds": [
     "sitemap",

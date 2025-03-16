@@ -1,7 +1,6 @@
 ---
 draft: false
-when: "Sat 11th Feb 2023, 2:00 PM"
+when: "Samstag 20. September 2025 15:00 Uhr"
 where:
-  first: "Higher Eggbeer Farm"
-  second: "Cheriton Bishop, Nr Exeter, Devon, EX6 6JQ"
+  first: "Absalonshorst"
 ---

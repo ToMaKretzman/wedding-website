@@ -2,16 +2,16 @@
 draft: false
 ---
 
-# Here's where we're going to write info about what we'll do after the wedding
+# Hier werden wir Informationen darüber schreiben, was wir nach der Hochzeit machen werden
 
-Everything in this markdown file is going to build the /sunday page of the website
+Alles in dieser Markdown-Datei wird die /sunday-Seite der Website erstellen
 
-## What we want to do that day
+## Was wir an diesem Tag machen möchten
 
-- Going for a walk
-- Having lots of food
-- Perhaps being mildly hungover
+- Spazieren gehen
+- Viel Essen
+- Vielleicht leicht verkatert sein
 
-## Will we have booked the venue's sauna
+## Werden wir die Sauna des Veranstaltungsortes gebucht haben
 
-Unlikely
+Unwahrscheinlich
